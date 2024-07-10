@@ -1,0 +1,1 @@
+A sine wave diagram.
