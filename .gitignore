@@ -1,0 +1,22 @@
+/.ipynb_checkpoints
+/.vscode
+/5d0e2b7a0e569e92454438c11807e7ed.mp4
+/build
+/build_log.txt
+/clustered_customers.xlsx
+/customer features.xlsx
+/dist
+/example.xlsx
+/HDFSOperations.java
+/hdfs_operations_output.txt
+/main.c
+/main.exe
+/main.spec
+/mapreduce_experiment.log
+/mapreduce_experiment.sh
+/mapreduce_output.txt
+/myenv
+/setup.py
+/test_hdfs_operations.sh
+/Untitled.ipynb
+/简易计算器的实现-实验报告.docx
